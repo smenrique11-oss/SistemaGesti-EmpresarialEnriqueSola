@@ -1,0 +1,2 @@
+Hi han 0 numeros palíndroms.
+Hi han 0 numeros cosins.
